@@ -1,1 +1,1 @@
-
+Building a model to predict whether a loan would be defaulted or not, using the input dataset which contains customers Income, Occupation, Age and Expense, etc.  I used classification algorithms for predicting and also predicted important features.
